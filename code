@@ -1,0 +1,26 @@
+##code
+
+  524  vim calculator.sh
+  525  git commit -m "first file"
+  526  git status
+  527  git commit -m "first file"
+  528  git config --global user.name "abhishekab5297"
+  529  git config --global user.email "abhishekab5297@gmail.com"
+  530  clear
+  531  git status
+  532  git commit -m "first file"
+  533  vim calculator.sh
+  534  git status
+  535  git diff
+  536  git commit -m "second file"
+  537  clear
+  538  git add calculator.sh
+  539  git status
+  540  git commit -m "second file"
+  541  git diff
+  542  clear
+  543  git log
+  544  cat calculator.sh
+  545  git log
+  546  git reset --hard 0517ad0af8a58bdfc7159c2c923123b8b6915d14
+  547  cat calculator.sh
